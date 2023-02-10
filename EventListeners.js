@@ -3,6 +3,11 @@ class EventListeners{
     constructor(configs){
         this.configs = configs
     }
+    
+    setContigs(configs){
+        this.configs = configs
+    }
+
 
     #switch(add_or_remove){
         this.configs.forEach(config => {
