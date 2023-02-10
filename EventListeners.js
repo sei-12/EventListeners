@@ -1,4 +1,3 @@
-// テスト
 class EventListeners{
 
     constructor(configs){
