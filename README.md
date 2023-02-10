@@ -1,5 +1,5 @@
 # EventListeners
 
 ```
-wget https://github.com/sei-12/EventListeners/blob/sub/EventListeners.js
+wget https://raw.githubusercontent.com/sei-12/EventListeners/sub/EventListeners.js
 ```
