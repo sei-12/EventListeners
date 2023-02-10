@@ -1,4 +1,6 @@
+// テスト
 class EventListeners{
+
     constructor(configs){
         this.configs = configs
     }
